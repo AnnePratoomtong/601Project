@@ -1,5 +1,5 @@
 # 601Project
 Data 601 Project 
-This notebook has 5 CSV Files as inputs: 
+This notebook uses 5 CSV Files as inputs: 
 Building_Permits6625L5Multi.csv, Building_Permits131191L5Single.csv, Building_Permits179416L3Improve.csv, 
 Community_Crime_and_Disorder_Statistics__2012-2019_.csv, Commumap.csv
